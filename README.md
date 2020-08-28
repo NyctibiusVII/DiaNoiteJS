@@ -1,6 +1,21 @@
 # DiaNoiteJS
 Mostra uma imagem de acordo com o horário atual
 
+## Rodando o projeto 🚴🏻‍♂️
+
+```bash
+
+# Clone o repositório
+$ git clone https://github.com/NyctibiusVII/DiaNoiteJS.git
+
+# Abra o index.html com seu navegador
+- abra o explorer no arquivo
+- Clique com o botão direito no arquivo
+- Clique em 'Abrir com...' e selecione seu navegador
+
+# O documento atualiza a cada 1 minuto 'não' se importando com o seu tempo local
+```
+
 ## Licença ⚖️
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/NyctibiusVII/DiaNoiteJS/blob/master/LICENSE) para mais detalhes.
 
