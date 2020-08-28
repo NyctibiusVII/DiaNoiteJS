@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-    <img src="./.github/logo.png" width="300" alt="Dia/Noite">
+    <img src="./.github/logo.jpg" width="300" alt="Dia/Noite">
 </h1>
 <p align="center">
   <a href="">
@@ -33,9 +33,9 @@ Então ira aparecer uma imagem relacionada ao entardecer.
 ```
 
 ## Visual ✨
-| <img src="./.github/screen-manha.jpg" width="400px"> | <img src="./.github/screen-tarde.jpg" width="400px"> |
+| <img src="./.github/screen-manha.png" width="400px"> | <img src="./.github/screen-tarde.png" width="400px"> |
 | :---: | :---: |
-| <img src="./.github/screen-noite.jpg" width="400px"> | <img src="./.github/screen-madrugada.jpg" width="400px"> |
+| <img src="./.github/screen-noite.png" width="400px"> | <img src="./.github/screen-madrugada.png" width="400px"> |
 
 ## Rodando o projeto 🚴🏻‍♂️
 ```bash
