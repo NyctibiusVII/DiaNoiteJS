@@ -1,17 +1,17 @@
 <h1 align="center">
   <br>
-    <img src="./.github/logo.jpg" width="1000" alt="Dia/Noite">
+    <img src="./.github/logo.png" width="1000" alt="Dia/Noite">
 </h1>
 <p align="center">
   <a href="">
-    <img alt="Version" src="https://img.shields.io/static/v1?label=Version&message=1.1&color=1a1a2a&labelColor=87ceeb">
+    <img alt="Version" src="https://img.shields.io/static/v1?label=Version&message=1.1&color=282728&labelColor=fcff7c">
   </a>
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/NyctibiusVII/DiaNoiteJS?color=1a1a2a&labelColor=87ceeb">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/NyctibiusVII/DiaNoiteJS?color=282728&labelColor=fcff7c">
   <a href="https://github.com/NyctibiusVII/DiaNoiteJS/blob/master/LICENSE">
-    <img alt="License" src="https://img.shields.io/static/v1?label=License&message=MIT&color=1a1a2a&labelColor=87ceeb">
+    <img alt="License" src="https://img.shields.io/static/v1?label=License&message=MIT&color=282728&labelColor=fcff7c">
   </a>
   <a href="https://picpay.me/Matheus_nyctibius_vii">
-  <img alt="Donate" src="https://img.shields.io/static/v1?label=$&message=Donate&color=1a1a2a&labelColor=87ceeb">
+  <img alt="Donate" src="https://img.shields.io/static/v1?label=$&message=Donate&color=282728&labelColor=fcff7c">
   </a>
 </p>
 <p align="center">
@@ -35,7 +35,7 @@ Então ira aparecer uma imagem relacionada ao entardecer.
 ## Visual ✨
 | <img src="./.github/screen-manha.png" width="400px"> | <img src="./.github/screen-tarde.png" width="400px"> |
 | :---: | :---: |
-| <img src="./.github/screen-noite.png" width="400px"> | <img src="./.github/screen-madrugada.png" width="400px"> |
+| <img src="./.github/screen-madrugada.png" width="400px"> | <img src="./.github/screen-noite.png" width="400px"> |
 
 ## Rodando o projeto 🚴🏻‍♂️
 ```bash
@@ -59,9 +59,9 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.c
 
 <p align="left">	
    <a href="https://www.linkedin.com/in/matheus-vidigal-nyctibiusvii/">
-      <img alt="Matheus Vidigal / Linkedin" src="https://img.shields.io/badge/-Matheus Vidigal-87ceeb?style=flat&logo=Linkedin&logoColor=white" />
+      <img alt="Matheus Vidigal / Linkedin" src="https://img.shields.io/badge/-Matheus Vidigal-fcff7c?style=flat&logo=Linkedin&logoColor=white" />
    </a>
    <a href="https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcSGLCKpKJfwPsKKqzXBplKkGtCLvCQcFWdWxCxQFfkHzzjVkgzrMFPBgKBmWFHvrjrCsMqSH">
-      <img alt="Matheus Vidigal / Linkedin" src="https://img.shields.io/badge/-Matheus Vidigal-1a1a2a?style=flat&logo=Gmail&logoColor=white" />
+      <img alt="Matheus Vidigal / Linkedin" src="https://img.shields.io/badge/-Matheus Vidigal-282728?style=flat&logo=Gmail&logoColor=white" />
    </a>
 </p>
