@@ -1,22 +1,21 @@
 <h1 align="center">
-  <br>
-    <img src="./.github/logo.png" width="1000" alt="Dia/Noite">
+  <img src="./.github/logo.png" width="1000" alt="Dia/Noite">
 </h1>
+
 <p align="center">
-  <a href="">
-    <img alt="Version" src="https://img.shields.io/static/v1?label=Version&message=1.1&color=282728&labelColor=fcff7c">
-  </a>
+  <img alt="Version" src="https://img.shields.io/static/v1?label=Version&message=1.1&color=282728&labelColor=fcff7c">
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/NyctibiusVII/DiaNoiteJS?color=282728&labelColor=fcff7c">
   <a href="https://github.com/NyctibiusVII/DiaNoiteJS/blob/master/LICENSE">
     <img alt="License" src="https://img.shields.io/static/v1?label=License&message=MIT&color=282728&labelColor=fcff7c">
   </a>
   <a href="https://picpay.me/Matheus_nyctibius_vii">
-  <img alt="Donate" src="https://img.shields.io/static/v1?label=$&message=Donate&color=282728&labelColor=fcff7c">
+    <img alt="Donate" src="https://img.shields.io/static/v1?label=$&message=Donate&color=282728&labelColor=fcff7c">
   </a>
 </p>
+
 <p align="center">
-  <a href="#dianoite-">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#visual-">Visual</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#dianoite-">Projeto</a>                   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#visual-">Visual</a>                      &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rodando-o-projeto-%EF%B8%8F">Executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#licença-%EF%B8%8F">Licença</a>
 </p>
@@ -47,7 +46,7 @@ $ git clone https://github.com/NyctibiusVII/DiaNoiteJS.git
 - Clique com o botão direito no arquivo
 - Clique em 'Abrir com...' e selecione seu navegador
 
-# O documento atualiza a cada 1 minuto 'não' se importando com o seu tempo local
+# O documento atualiza a cada 1 minuto 'não' se importando com o seu tempo local.
 ```
 
 ## Licença ⚖️
