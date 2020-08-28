@@ -1,0 +1,12 @@
+body{
+    background: #adadad;
+    font: normal 15pt Arial;
+}
+header{
+    color: white;               /* cor do texto */
+    text-align: center;           /* centraliza o texto*/
+}
+div{
+    text-align: center;
+    padding: 8px;
+}
