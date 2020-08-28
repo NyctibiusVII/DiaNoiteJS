@@ -5,6 +5,11 @@ function carregar(){
     var min = data.getMinutes()
     var hora = data.getHours()
     //var hora = 13 //para teste
+
+    setTimeout(function() {
+      window.location.reload(1);
+    }, 60000); // 1 minuto
+
     msg.innerHTML = `Agora são ${hora} horas e ${min} minutos`
 
     if(hora >= 6 && hora < 12){
