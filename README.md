@@ -1,5 +1,21 @@
+<h1 align="center">
+  <br>
+    <img src="./.github/logo.png" width="300" alt="Dia/Noite">
+</h1>
 <p align="center">
-  <a href="#dianoite-%EF%B8%8F">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="">
+    <img alt="Version" src="https://img.shields.io/static/v1?label=Version&message=1.1&color=ffff00&labelColor=000000">
+  </a>
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/NyctibiusVII/DiaNoiteJS?color=ffff00&labelColor=000000">
+  <a href="https://github.com/NyctibiusVII/DiaNoiteJS/blob/master/LICENSE">
+    <img alt="License" src="https://img.shields.io/static/v1?label=License&message=MIT&color=ffff00&labelColor=000000">
+  </a>
+  <a href="https://picpay.me/Matheus_nyctibius_vii">
+  <img alt="Donate" src="https://img.shields.io/static/v1?label=$&message=Donate&color=ff69b4&labelColor=000000">
+  </a>
+</p>
+<p align="center">
+  <a href="#dianoite-">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#visual-">Visual</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rodando-o-projeto-%EF%B8%8F">Executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#licença-%EF%B8%8F">Licença</a>
@@ -43,9 +59,9 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.c
 
 <p align="left">	
    <a href="https://www.linkedin.com/in/matheus-vidigal-nyctibiusvii/">
-      <img alt="Matheus Vidigal / Linkedin" src="https://img.shields.io/badge/-Matheus Vidigal-8257E5?style=flat&logo=Linkedin&logoColor=white" />
+      <img alt="Matheus Vidigal / Linkedin" src="https://img.shields.io/badge/-Matheus Vidigal-ffff00?style=flat&logo=Linkedin&logoColor=white" />
    </a>
    <a href="https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcSGLCKpKJfwPsKKqzXBplKkGtCLvCQcFWdWxCxQFfkHzzjVkgzrMFPBgKBmWFHvrjrCsMqSH">
-      <img alt="Matheus Vidigal / Linkedin" src="https://img.shields.io/badge/-Matheus Vidigal-8257E5?style=flat&logo=Gmail&logoColor=white" />
+      <img alt="Matheus Vidigal / Linkedin" src="https://img.shields.io/badge/-Matheus Vidigal-ffff00?style=flat&logo=Gmail&logoColor=white" />
    </a>
 </p>
