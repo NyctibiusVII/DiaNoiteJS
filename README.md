@@ -1,4 +1,11 @@
-# Dia/Noite
+<p align="center">
+  <a href="#dianoite-%EF%B8%8F">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#visual-">Visual</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rodando-o-projeto-%EF%B8%8F">Executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#licença-%EF%B8%8F">Licença</a>
+</p>
+
+# Dia/Noite 🌞🌚
 O projeto foi ensinado por [Gustavo Guanabara](https://github.com/professorguanabara) com o intuito de aprender mais sobre algumas funcionalidades do javascript/iniciante.
 
 O arquivo index atualiza a cada 1min pegando o seu tempo atual e dependendo do horário (Manha, Tarde, Noite ou Madrugada) seta uma imagem base(cinza) para outra condizente com seu tempo.
