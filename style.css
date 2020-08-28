@@ -1,12 +1,28 @@
 body{
     background: #adadad;
-    font: normal 15pt Arial;
+    font:         normal 15pt Arial;
 }
 header{
-    color: white;               /* cor do texto */
-    text-align: center;           /* centraliza o texto*/
+    color:    white;            /* cor do texto                */
+    text-align: center;           /* centraliza o texto          */
+}   
+section{   
+    background:  white;         /* cor de fundo                */
+    border-radius: 10px;          /* arredondamento da borda     */
+    padding:       15px;          /* espaço interno              */
+    width:         500px;         /* largura                     */
+    margin:        auto;          /* centraliza                  */
+    box-shadow:    3px 3px 10px rgba(0, 0, 0, 0.363);/* sombra */
+}
+footer{
+    color:    white;            /* cor do texto                */
+    text-align: center;           /* centraliza o texto          */
+    font-style: italic;           /* style de fonte              */
+}
+#imgH{
+    border-radius: 150px;
 }
 div{
     text-align: center;
-    padding: 8px;
+    padding:    8px;
 }
