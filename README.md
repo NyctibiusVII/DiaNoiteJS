@@ -1,5 +1,13 @@
-# DiaNoiteJS
-Mostra uma imagem de acordo com o horário atual
+# Dia/Noite
+O projeto foi ensinado por [Gustavo Guanabara](https://github.com/professorguanabara) com o intuito de aprender mais sobre algumas funcionalidades do javascript/iniciante.
+
+O arquivo index atualiza a cada 1min pegando o seu tempo atual e dependendo do horário (Manha, Tarde, Noite ou Madrugada) seta uma imagem base(cinza) para outra condizente com seu tempo.
+
+###### Ex:
+``` 
+Seu horário é 17:30
+Então ira aparecer uma imagem relacionada ao entardecer.
+```
 
 ## Visual ✨
 | <img src="./.github/screen-manha.jpg" width="400px"> | <img src="./.github/screen-tarde.jpg" width="400px"> |
