@@ -1,3 +1,11 @@
 # .gitignore
 
+#-------LOCAL-------#
+#config. local
 .vscode
+
+#-------READMES-------#
+#readme teste
+README-TESTE.md
+#readme ing
+README-ing.md
