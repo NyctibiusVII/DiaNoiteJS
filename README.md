@@ -1,10 +1,13 @@
 # DiaNoiteJS
 Mostra uma imagem de acordo com o horário atual
 
+## Visual ✨
+| <img src="./.github/screen-manha.jpg" width="400px"> | <img src="./.github/screen-tarde.jpg" width="400px"> |
+| :---: | :---: |
+| <img src="./.github/screen-noite.jpg" width="400px"> | <img src="./.github/screen-madrugada.jpg" width="400px"> |
+
 ## Rodando o projeto 🚴🏻‍♂️
-
 ```bash
-
 # Clone o repositório
 $ git clone https://github.com/NyctibiusVII/DiaNoiteJS.git
 
