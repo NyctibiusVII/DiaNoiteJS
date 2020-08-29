@@ -21,7 +21,7 @@
     --color-secondary-darker:     #4dacff;/*Não definido...*/
     
     --color-title-in-primary:     #FFFFFF;/*Não definido...*/
-    --color-text-title:           #FFFFFF;/*Não definido...*/
+    --color-text-title:           #333333;
     --color-text-in-primary:      #FFFFFF;/*Não definido...*/
     --color-text-base:            #FFFFFF;/*Não definido...*/
     --color-text-complement:      #FFFFFF;/*Não definido...*/
@@ -47,6 +47,7 @@ html, body{
     width:  100vw;
 }
 body{
+    margin: 0 !important;
     background-color: var(--color-background);
-    font:             normal 15pt Arial;
+    font:             normal 15pt Poppins;
 }
