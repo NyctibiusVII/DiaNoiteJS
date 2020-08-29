@@ -1,7 +1,17 @@
+/* padrão ------------------------------------------------------ */
+html, body{
+    height: 100vh;
+    width:  100vw;
+    margin: 0;
+}
 body{
     background: #adadad;
     font:         normal 15pt Arial;
 }
+
+
+
+/* conteúdo ---------------------------------------------------- */
 header{
     color:    white;            /* cor do texto                */
     text-align: center;           /* centraliza o texto          */
@@ -9,20 +19,66 @@ header{
 section{   
     background:  white;         /* cor de fundo                */
     border-radius: 0.625rem;      /* arredondamento da borda     */
-    padding:       10.938rem;     /* espaço interno              */
+    padding:       0.938rem;      /* espaço interno              */
     width:         31.25rem;      /* largura                     */
     margin:        auto;          /* centraliza                  */
     box-shadow:    0.188rem 0.188rem 0.625rem rgba(0, 0, 0, 0.363);/* sombra */
+}
+div{
+    text-align: center;
+    padding:    0.5rem;
+}
+#imgH{
+    border-radius: 9.375rem;
 }
 footer{
     color:    white;            /* cor do texto                */
     text-align: center;           /* centraliza o texto          */
     font-style: italic;           /* style de fonte              */
 }
-#imgH{
-    border-radius: 9.375rem;
+
+
+
+/* tablet ------------------------------------------------------ */
+@media (max-width: 630px){
+    .titleH h1{
+        font-size:   38px;
+        line-height: 5.6rem;
+    }
+    section{
+        border-radius: 1rem;      /* arredondamento da borda     */
+        width:         430px;
+        text-align:    center;
+    }
+    #msg, .autorM{
+        font-size: 20px;
+    }
+    #imgH{
+        height:        200px;
+        width:         200px;
+        border-radius: 15.625rem;
+    }
 }
-div{
-    text-align: center;
-    padding:    0.5rem;
+
+
+
+/* mobile -------------------------------------------------------*/
+@media (max-width: 500px){
+    .titleH h1{
+        font-size:   32px;
+        line-height: 4.6rem;
+    }
+    section{
+        border-radius: 1.25rem;
+        width:         330px;
+        text-align:    center;
+    }
+    #msg, .autorM{
+        font-size: 16px;
+    }
+    #imgH{
+        height:        150px;
+        width:         150px;
+        border-radius: 15.625rem;
+    }
 }
