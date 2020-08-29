@@ -1,26 +1,13 @@
-/* padrão ------------------------------------------------------ */
-html, body{
-    height: 100vh;
-    width:  100vw;
-    margin: 0;
-}
-body{
-    background: #adadad;
-    font:         normal 15pt Arial;
-}
-
-
-
 /* conteúdo ---------------------------------------------------- */
 header{
-    color:    white;            /* cor do texto                */
+    color:      var(--color-title-in-primary);/* cor do texto    */
     text-align: center;           /* centraliza o texto          */
 }   
 section{   
-    background:  white;         /* cor de fundo                */
+    background:    var(--color-box-base);/* cor de fundo         */
     border-radius: 0.625rem;      /* arredondamento da borda     */
     padding:       0.938rem;      /* espaço interno              */
-    width:         31.25rem;      /* largura                     */
+    width:         34.375rem;     /* largura                     */
     margin:        auto;          /* centraliza                  */
     box-shadow:    0.188rem 0.188rem 0.625rem rgba(0, 0, 0, 0.363);/* sombra */
 }
@@ -32,7 +19,7 @@ div{
     border-radius: 9.375rem;
 }
 footer{
-    color:    white;            /* cor do texto                */
+    color:      var(--color-footer);/* cor do texto              */
     text-align: center;           /* centraliza o texto          */
     font-style: italic;           /* style de fonte              */
 }
