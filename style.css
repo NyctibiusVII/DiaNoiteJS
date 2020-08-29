@@ -8,11 +8,11 @@ header{
 }   
 section{   
     background:  white;         /* cor de fundo                */
-    border-radius: 10px;          /* arredondamento da borda     */
-    padding:       15px;          /* espaço interno              */
-    width:         500px;         /* largura                     */
+    border-radius: 0.625rem;      /* arredondamento da borda     */
+    padding:       10.938rem;     /* espaço interno              */
+    width:         31.25rem;      /* largura                     */
     margin:        auto;          /* centraliza                  */
-    box-shadow:    3px 3px 10px rgba(0, 0, 0, 0.363);/* sombra */
+    box-shadow:    0.188rem 0.188rem 0.625rem rgba(0, 0, 0, 0.363);/* sombra */
 }
 footer{
     color:    white;            /* cor do texto                */
@@ -20,9 +20,9 @@ footer{
     font-style: italic;           /* style de fonte              */
 }
 #imgH{
-    border-radius: 150px;
+    border-radius: 9.375rem;
 }
 div{
     text-align: center;
-    padding:    8px;
+    padding:    0.5rem;
 }
