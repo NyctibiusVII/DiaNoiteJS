@@ -23,16 +23,16 @@
 # Dia/Noite 🌞🌚
 O projeto foi ensinado por [Gustavo Guanabara](https://github.com/professorguanabara) com o intuito de aprender mais sobre algumas funcionalidades do javascript/iniciante.
 
-O arquivo index atualiza a cada 1min pegando o seu tempo atual e dependendo do horário (Manha, Tarde, Noite ou Madrugada) seta uma imagem base(cinza) para outra condizente com seu tempo.
+O back-end atualiza a cada 1 hora pegando o seu tempo atual e dependendo do horário (Manha, Tarde, Noite ou Madrugada) seta uma imagem base(cinza) para outra condizente com seu tempo.
 
 ###### Ex:
-```bash
+``` bash
 # Seu horário é 17:30
 # Então ira aparecer uma imagem relacionada ao entardecer.
 ```
 
 ## Visual ✨
-```bash
+``` c#
 # Imagens OBSOLETAS (old version)
 ```
 | <img src="./.github/screen-manha.png" width="400px"> | <img src="./.github/screen-tarde.png" width="400px"> |
@@ -40,7 +40,7 @@ O arquivo index atualiza a cada 1min pegando o seu tempo atual e dependendo do h
 | <img src="./.github/screen-madrugada.png" width="400px"> | <img src="./.github/screen-noite.png" width="400px"> |
 
 ## Rodando o projeto 🚴🏻‍♂️
-```bash
+``` c
 # Clone o repositório
 $ git clone https://github.com/NyctibiusVII/DiaNoiteJS.git
 
