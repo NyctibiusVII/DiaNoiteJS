@@ -19,17 +19,31 @@ div{
     text-align: center;
     padding:    0.5rem;
 }
-#msg{
-    font:        500 1.3rem Poppins;
-    color:       var(--color-text-title);
+#msgH{
+    font:   500 1.3rem Poppins;
+    color:  var(--color-text-title);
 }
 #imgH{
     border-radius: 9.375rem;
+}
+#tempoSemanaH{    
+    font:    500 1.3rem Poppins;
+    color:   var(--color-text-in-primary);
+
+    padding: 0.938rem;
+    width:   34.375rem;
+    margin:  0.8rem auto;
+
+    display:         flex;
+    align-items:     center;
+    justify-content: space-between;
 }
 footer{
     color:      var(--color-footer);/* cor do texto              */
     text-align: center;           /* centraliza o texto          */
     font-style: italic;           /* style de fonte              */
+
+    margin-top: 3.8rem;
 }
 
 
@@ -45,13 +59,16 @@ footer{
         width:         430px;
         text-align:    center;
     }
-    #msg, .autorM{
+    #msgH, .autorM, #tempoSemanaH{
         font-size: 20px;
     }
     #imgH{
         height:        200px;
         width:         200px;
         border-radius: 15.625rem;
+    }
+    #tempoSemanaH{        
+        width:   26.25rem;
     }
 }
 
@@ -68,12 +85,15 @@ footer{
         width:         330px;
         text-align:    center;
     }
-    #msg, .autorM{
+    #msgH, .autorM, #tempoSemanaH{
         font-size: 16px;
     }
     #imgH{
         height:        150px;
         width:         150px;
         border-radius: 15.625rem;
+    }
+    #tempoSemanaH{        
+        width:   20rem;
     }
 }
