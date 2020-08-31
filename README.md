@@ -26,12 +26,15 @@ O projeto foi ensinado por [Gustavo Guanabara](https://github.com/professorguana
 O arquivo index atualiza a cada 1min pegando o seu tempo atual e dependendo do horário (Manha, Tarde, Noite ou Madrugada) seta uma imagem base(cinza) para outra condizente com seu tempo.
 
 ###### Ex:
-``` 
-Seu horário é 17:30
-Então ira aparecer uma imagem relacionada ao entardecer.
+```bash
+# Seu horário é 17:30
+# Então ira aparecer uma imagem relacionada ao entardecer.
 ```
 
 ## Visual ✨
+```bash
+# Imagens OBSOLETAS (old version)
+```
 | <img src="./.github/screen-manha.png" width="400px"> | <img src="./.github/screen-tarde.png" width="400px"> |
 | :---: | :---: |
 | <img src="./.github/screen-madrugada.png" width="400px"> | <img src="./.github/screen-noite.png" width="400px"> |
@@ -46,7 +49,7 @@ $ git clone https://github.com/NyctibiusVII/DiaNoiteJS.git
 - Clique com o botão direito no arquivo
 - Clique em 'Abrir com...' e selecione seu navegador
 
-# O documento atualiza a cada 1 minuto 'não' se importando com o seu tempo local.
+# O documento atualiza a cada 1 hora já pegando os minutos passados
 ```
 
 ## Licença ⚖️
