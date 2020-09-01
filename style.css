@@ -38,6 +38,25 @@ div{
     align-items:     center;
     justify-content: space-between;
 }
+.testeBtn {
+    border-radius:          20px;
+    line-height:            15px;
+    color:                #FFFFFF;
+    width:                  300px;
+    font-size:              45px;
+    font-weight:            600;
+    padding:                40px;
+    background-color:     #4DACFF;
+    text-decoration:        none;
+    display:                inline-block;
+    cursor:                 pointer;
+    text-align:             center;
+    }
+.testeBtn:hover {
+    background:         #1E62D0;
+    border-radius:      20px;
+    text-decoration:    none;
+}
 footer{
     color:      var(--color-footer);/* cor do texto              */
     text-align: center;           /* centraliza o texto          */

@@ -78,19 +78,19 @@ function reloadBackground(hora){
   var imgH = window.document.querySelector('img#imgH')  //imagem
 
   if(hora >= 6 && hora < 12){  
-    document.body.style.background = '#fff56a'          //dia
+    //document.body.style.background = '#fff56a'          //dia
     mtnmH.innerHTML = 'Manhã'
     imgH.src = 'img/manha.jpg'
   }else if(hora >= 12 && hora < 18){
-    document.body.style.background = '#ff9e1fda'        //tarde
+    //document.body.style.background = '#ff9e1fda'        //tarde
     mtnmH.innerHTML = 'Tarde'
     imgH.src = 'img/tarde.jpg'    
   }else if(hora >= 18 && hora < 23){
-    document.body.style.background = '#1c305a'          //noite
+    //document.body.style.background = '#1c305a'          //noite
     mtnmH.innerHTML = 'Noite'
     imgH.src = 'img/noite.jpg'    
   }else{ 
-    document.body.style.background = '#000714'          //madrugada
+    //document.body.style.background = '#000714'          //madrugada
     mtnmH.innerHTML = 'Madrugada'
     imgH.src = 'img/madrugada.jpg' 
   }
