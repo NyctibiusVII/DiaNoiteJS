@@ -1,0 +1,23 @@
+/* mobile -------------------------------------------------------*/
+@media (max-width: 500px){
+    .titleH h1{
+        font:        800 2rem Poppins;
+        line-height: 4rem;        /* arredondamento da borda     */
+    }
+    section{
+        border-radius: 1.25rem;
+        width:         330px;
+        text-align:    center;
+    }
+    #msgH, .autorM, #tempoSemanaH{
+        font-size: 16px;
+    }
+    #imgH{
+        height:        150px;
+        width:         150px;
+        border-radius: 15.625rem;
+    }
+    #tempoSemanaH{        
+        width:   20rem;
+    }
+}

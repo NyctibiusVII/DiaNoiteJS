@@ -1,0 +1,23 @@
+/* tablet ------------------------------------------------------ */
+@media (max-width: 630px){
+    .titleH h1{
+        font:        800 2.5rem Poppins;
+        line-height: 4.6rem;      /* tamanho da altura em volta  */
+    }
+    section{
+        border-radius: 1rem;      /* arredondamento da borda     */
+        width:         430px;
+        text-align:    center;
+    }
+    #msgH, .autorM, #tempoSemanaH{
+        font-size: 20px;
+    }
+    #imgH{
+        height:        200px;
+        width:         200px;
+        border-radius: 15.625rem;
+    }
+    #tempoSemanaH{        
+        width:   26.25rem;
+    }
+}
