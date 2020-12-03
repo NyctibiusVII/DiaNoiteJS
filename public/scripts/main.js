@@ -3,7 +3,7 @@ window.onload = setInterval(dataHMS, 1000)               //###### CADA 1 SEGUNDO
 function dataSM() {
   var semanaH = window.document.querySelector('span#semanaH')//dia da semana
 
-  setTimeout(function(){ 
+  setTimeout(function(){
   var data = new Date()
   var sm = data.getDay()                                 //dia da semana
 
@@ -65,9 +65,9 @@ oneX(hr)                                                //passando a hora como p
 function oneX(hr){
   //for (let oneID = 1; oneID >= 1; oneID--) {
     //console.log(`${oneID}º Reload inicial concluído`)
-    
+
     //para rodar 1x no inicio do código !important
-    reloadBackground(hr)                            
+    reloadBackground(hr)
     dataSM()
   //}
 }
@@ -77,21 +77,21 @@ function reloadBackground(hora){
   var mtnmH = window.document.querySelector('span#manhaTardeNoiteMadrugadaH')// manhã tarde noite ou madrugada
   var imgH = window.document.querySelector('img#imgH')  //imagem
 
-  if(hora >= 6 && hora < 12){  
+  if(hora >= 6 && hora < 12){
     //document.body.style.background = '#fff56a'          //dia
     mtnmH.innerHTML = 'Manhã'
     imgH.src = 'images/manha.jpg'
   }else if(hora >= 12 && hora < 18){
     //document.body.style.background = '#ff9e1fda'        //tarde
     mtnmH.innerHTML = 'Tarde'
-    imgH.src = 'images/tarde.jpg'    
+    imgH.src = 'images/tarde.jpg'
   }else if(hora >= 18 && hora < 23){
     //document.body.style.background = '#1c305a'          //noite
     mtnmH.innerHTML = 'Noite'
-    imgH.src = 'images/noite.jpg'    
-  }else{ 
+    imgH.src = 'images/noite.jpg'
+  }else{
     //document.body.style.background = '#000714'          //madrugada
     mtnmH.innerHTML = 'Madrugada'
-    imgH.src = 'images/madrugada.jpg' 
+    imgH.src = 'images/madrugada.jpg'
   }
 }

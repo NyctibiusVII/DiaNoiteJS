@@ -1,13 +1,13 @@
 /* conteúdo ---------------------------------------------------- */
-header{
+header {
     color:      var(--color-title-in-primary);/* cor do texto    */
     text-align: center;           /* centraliza o texto          */
 }
-.titleH h1{
+.titleH h1 {
     font:        800 3rem Poppins;
     line-height: 5.6rem;          /* tamanho da altura em volta  */
-} 
-section{   
+}
+section {
     background:    var(--color-box-base);/* cor de fundo         */
     border-radius: 0.625rem;      /* arredondamento da borda     */
     padding:       0.938rem;      /* espaço interno              */
@@ -15,18 +15,18 @@ section{
     margin:        auto;          /* centraliza                  */
     box-shadow:    0.188rem 0.188rem 0.625rem rgba(0, 0, 0, 0.363);/* sombra */
 }
-div{
+div {
     text-align: center;
     padding:    0.5rem;
 }
-#msgH{
+#msgH {
     font:   500 1.3rem Poppins;
     color:  var(--color-text-title);
 }
-#imgH{
+#imgH {
     border-radius: 9.375rem;
 }
-#tempoSemanaH{    
+#tempoSemanaH {
     font:    500 1.3rem Poppins;
     color:   var(--color-text-in-primary);
 
@@ -57,10 +57,17 @@ div{
     border-radius:      20px;
     text-decoration:    none;
 }
-footer{
+footer {
     color:      var(--color-footer);/* cor do texto              */
     text-align: center;           /* centraliza o texto          */
     font-style: italic;           /* style de fonte              */
 
     margin-top: 3.8rem;
+
+    /*position: fixed;
+    width: 100%;
+    bottom:0;*/
+}
+.spectrumHeader {
+	transition: background-color 4s ease;
 }

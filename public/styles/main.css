@@ -56,6 +56,7 @@ body{
     background-color: var(--color-background);
     font:             normal 15pt Poppins;
 }
+/*
 .bodyBack1 {
     background-color: var(--color-morning);
     transition-duration: 2s;
@@ -72,3 +73,4 @@ body{
     background-color: var(--color-dawn);
     transition-duration: 2s;
 }
+*/
