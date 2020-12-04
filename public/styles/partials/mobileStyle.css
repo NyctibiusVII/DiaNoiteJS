@@ -21,3 +21,13 @@
         width:   20rem;
     }
 }
+
+
+
+@media (max-width: 350px) {
+    section {
+        border-radius: 1.25rem;
+        width:         300px;
+        text-align:    center;
+    }
+}

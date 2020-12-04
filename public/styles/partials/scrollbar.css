@@ -11,11 +11,11 @@
 /* 1 */
 ::-webkit-scrollbar {
     width: 7px;
-    background: #aaaaaa;        /*default: #F4F4F4*/
+    background: #999999;        /*default: #F4F4F4*/
 }
 /* 3 */
 ::-webkit-scrollbar-track {
-    background-color: #aaaaaa;  /*default: #F4F4F4*/
+    background-color: #999999;  /*default: #F4F4F4*/
 }
 /* 5 */
 ::-webkit-scrollbar-thumb {

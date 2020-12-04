@@ -20,10 +20,4 @@
     #tempoSemanaH {
         width:   26.25rem;
     }
-    footer {
-        margin: 0;
-        position: fixed;
-        width: inherit;
-        bottom: 0;
-    }
 }
