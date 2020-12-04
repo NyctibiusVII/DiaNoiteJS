@@ -41,7 +41,9 @@ function dataHMS() {
   var h = data.getHours()
   var m = data.getMinutes()
   var s = data.getSeconds()
-  //var hora = 13                                       //para teste
+  //var h = 21                                          //para testes
+  //var m = 30
+  //var s = 59
 
   var msg  = window.document.querySelector('div#msgH')
   msg.innerHTML = `Agora são ${h} horas, ${m} minutos e ${s} segundos`

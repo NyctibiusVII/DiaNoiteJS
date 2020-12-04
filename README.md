@@ -32,12 +32,12 @@ O back-end atualiza a cada 1 hora pegando o seu tempo atual e dependendo do hor�
 ```
 
 ## Visual ✨
-``` c#
-# Imagens OBSOLETAS (old version)
-```
 | <img src="./.github/screen-manha.png" width="400px"> | <img src="./.github/screen-tarde.png" width="400px"> |
 | :---: | :---: |
 | <img src="./.github/screen-madrugada.png" width="400px"> | <img src="./.github/screen-noite.png" width="400px"> |
+
+| <img src="./.github/mobile-screen-manha.png" width="150px"> | <img src="./.github/mobile-screen-madrugada.png" width="150px"> |
+|:---:|:---:|
 
 ## Rodando o projeto 🚴🏻‍♂️
 ``` bash
@@ -65,6 +65,21 @@ $ git clone https://github.com/NyctibiusVII/DiaNoiteJS.git
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/NyctibiusVII/DiaNoiteJS/blob/master/LICENSE) para mais detalhes.
 
 ## Contato ✉️
+| <img src="https://user-images.githubusercontent.com/52816125/90341686-05b68880-dfd8-11ea-969c-70c9ce9d0278.jpg" width=100><br><sub><a href="https://www.instagram.com/nyctibius_vii/?hl=pt-br">@MatheusVidigal🦊</a></sub> |
+| :---: |
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/matheus-vidigal-nyctibiusvii/">
+      <img alt="Matheus Vidigal / Linkedin" src="https://img.shields.io/badge/-Matheus Vidigal-fcff7c?style=flat&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcSGLCKpKJfwPsKKqzXBplKkGtCLvCQcFWdWxCxQFfkHzzjVkgzrMFPBgKBmWFHvrjrCsMqSH">
+      <img alt="Matheus Vidigal / Linkedin" src="https://img.shields.io/badge/-Matheus Vidigal-282728?style=flat&logo=Gmail&logoColor=white" />
+  </a>
+</p>
+
+
+
+<!--
 <div style="display:flex; align-items:center;">
 
   <div>
@@ -85,3 +100,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.c
     </p>
   </div>
 </div>
+-->
