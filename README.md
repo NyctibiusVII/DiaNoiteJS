@@ -28,7 +28,7 @@ O back-end atualiza a cada 1 hora pegando o seu tempo atual e dependendo do hor�
 ###### Ex:
 ``` bash
 # Seu horário é 17:30
-# Então ira aparecer uma imagem relacionada ao entardecer.
+# Então ira aparecer uma imagem relacionada ao entardecer
 ```
 
 ## Visual ✨
@@ -40,7 +40,7 @@ O back-end atualiza a cada 1 hora pegando o seu tempo atual e dependendo do hor�
 | <img src="./.github/screen-madrugada.png" width="400px"> | <img src="./.github/screen-noite.png" width="400px"> |
 
 ## Rodando o projeto 🚴🏻‍♂️
-``` c
+``` bash
 # Clone o repositório
 $ git clone https://github.com/NyctibiusVII/DiaNoiteJS.git
 
@@ -52,18 +52,36 @@ $ git clone https://github.com/NyctibiusVII/DiaNoiteJS.git
 # O documento atualiza a cada 1 hora já pegando os minutos passados
 ```
 
+## Próximos passos 🚶🏻‍♂️
+- Imagens -> adicionar mais imagens, ideal ( 1 img p/ cada hora)
+- Background -> fazer a transição de cores conforme o horario do dia.
+###### Ex:
+``` bash
+# Agora é 17:30
+# Então em tese será uma transição do entardecer ao anoitecer
+```
+
 ## Licença ⚖️
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/NyctibiusVII/DiaNoiteJS/blob/master/LICENSE) para mais detalhes.
 
 ## Contato ✉️
-| <img src="https://user-images.githubusercontent.com/52816125/90341686-05b68880-dfd8-11ea-969c-70c9ce9d0278.jpg" width=100><br><sub><a href="https://www.instagram.com/nyctibius_vii/?hl=pt-br">@MatheusVidigal🦊</a></sub> |
-| :---: |
+<div style="display:flex; align-items:center;">
 
-<p align="left">	
-   <a href="https://www.linkedin.com/in/matheus-vidigal-nyctibiusvii/">
-      <img alt="Matheus Vidigal / Linkedin" src="https://img.shields.io/badge/-Matheus Vidigal-fcff7c?style=flat&logo=Linkedin&logoColor=white" />
-   </a>
-   <a href="https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcSGLCKpKJfwPsKKqzXBplKkGtCLvCQcFWdWxCxQFfkHzzjVkgzrMFPBgKBmWFHvrjrCsMqSH">
-      <img alt="Matheus Vidigal / Linkedin" src="https://img.shields.io/badge/-Matheus Vidigal-282728?style=flat&logo=Gmail&logoColor=white" />
-   </a>
-</p>
+  <div>
+
+  | <img src="https://user-images.githubusercontent.com/52816125/90341686-05b68880-dfd8-11ea-969c-70c9ce9d0278.jpg" width=100><br><sub><a href="https://www.instagram.com/nyctibius_vii/?hl=pt-br">@MatheusVidigal🦊</a></sub> |
+  | :---: |
+  </div>
+
+  <div style="margin: 100px 0px 0px 20px;">
+    <p align="left">
+      <a href="https://www.linkedin.com/in/matheus-vidigal-nyctibiusvii/">
+          <img alt="Matheus Vidigal / Linkedin" src="https://img.shields.io/badge/-Matheus Vidigal-fcff7c?style=flat&logo=Linkedin&logoColor=white" />
+      </a>
+      <br>
+      <a href="https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcSGLCKpKJfwPsKKqzXBplKkGtCLvCQcFWdWxCxQFfkHzzjVkgzrMFPBgKBmWFHvrjrCsMqSH">
+          <img alt="Matheus Vidigal / Linkedin" src="https://img.shields.io/badge/-Matheus Vidigal-282728?style=flat&logo=Gmail&logoColor=white" />
+      </a>
+    </p>
+  </div>
+</div>

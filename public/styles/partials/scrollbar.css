@@ -1,0 +1,23 @@
+/*  ::-webkit-scrollbar              { /* 1 *-/ }  */
+/*  ::-webkit-scrollbar-button       { /* 2 *-/ }  */
+/*  ::-webkit-scrollbar-track        { /* 3 *-/ }  */
+/*  ::-webkit-scrollbar-track-piece  { /* 4 *-/ }  */
+/*  ::-webkit-scrollbar-thumb        { /* 5 *-/ }  */
+/*  ::-webkit-scrollbar-corner       { /* 6 *-/ }  */
+/*  ::-webkit-resizer                { /* 7 *-/ }  */
+
+
+
+/* 1 */
+::-webkit-scrollbar {
+    width: 7px;
+    background: #aaaaaa;        /*default: #F4F4F4*/
+}
+/* 3 */
+::-webkit-scrollbar-track {
+    background-color: #aaaaaa;  /*default: #F4F4F4*/
+}
+/* 5 */
+::-webkit-scrollbar-thumb {
+    background: #eeeeee;        /*default: #dad7d7*/
+}

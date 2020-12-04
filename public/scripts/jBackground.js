@@ -50,7 +50,7 @@ var cor2 = new ColorManager(255, 255, 255, 1, 2, 3, 255, 255, 255, 0, 0, 0);
 // cria o timer
 setInterval(function() {
     $("body").css({
-        background: "linear-gradient(to right, " + cor1.apply().toRGBA() + "," + cor2.apply().toRGBA() + ")"
+        //background: "linear-gradient(to right, " + cor1.apply().toRGBA() + "," + cor2.apply().toRGBA() + ")"
     });
 }, 1000);
 

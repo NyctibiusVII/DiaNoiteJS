@@ -38,6 +38,9 @@ div {
     align-items:     center;
     justify-content: space-between;
 }
+
+
+
 .testeBtn {
     border-radius:          20px;
     line-height:            15px;
@@ -57,16 +60,18 @@ div {
     border-radius:      20px;
     text-decoration:    none;
 }
+
+
+
 footer {
     color:      var(--color-footer);/* cor do texto              */
     text-align: center;           /* centraliza o texto          */
     font-style: italic;           /* style de fonte              */
 
-    margin-top: 3.8rem;
-
-    /*position: fixed;
-    width: 100%;
-    bottom:0;*/
+    margin-top: 3.5rem;
+}
+p.autorM {
+    margin: 0 auto;
 }
 .spectrumHeader {
 	transition: background-color 4s ease;

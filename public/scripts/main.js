@@ -75,22 +75,22 @@ function oneX(hr){
 function reloadBackground(hora){
   //console.log('atualizou o background')
   var mtnmH = window.document.querySelector('span#manhaTardeNoiteMadrugadaH')// manhã tarde noite ou madrugada
-  var imgH = window.document.querySelector('img#imgH')  //imagem
+  var imgH = window.document.querySelector('img#imgH')    //imagem
 
   if(hora >= 6 && hora < 12){
-    //document.body.style.background = '#fff56a'          //dia
+    document.body.style.background = '#fff56a'          //dia
     mtnmH.innerHTML = 'Manhã'
     imgH.src = 'images/manha.jpg'
   }else if(hora >= 12 && hora < 18){
-    //document.body.style.background = '#ff9e1fda'        //tarde
+    document.body.style.background = '#ff9e1fda'        //tarde
     mtnmH.innerHTML = 'Tarde'
     imgH.src = 'images/tarde.jpg'
   }else if(hora >= 18 && hora < 23){
-    //document.body.style.background = '#1c305a'          //noite
+    document.body.style.background = '#1c305a'          //noite
     mtnmH.innerHTML = 'Noite'
     imgH.src = 'images/noite.jpg'
   }else{
-    //document.body.style.background = '#000714'          //madrugada
+    document.body.style.background = '#000714'          //madrugada
     mtnmH.innerHTML = 'Madrugada'
     imgH.src = 'images/madrugada.jpg'
   }
